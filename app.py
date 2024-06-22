@@ -288,7 +288,7 @@ def main(date):
 
 
 # Title of the app
-st.title("Select The Date")
+st.title("Select The Date for News Flash")
 
 
 startDate = datetime(2024, 6,21)
