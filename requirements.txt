@@ -2,3 +2,4 @@ scikit-learn
 vaderSentiment
 requests
 pandas
+streamlit
